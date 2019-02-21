@@ -1,4 +1,4 @@
-# GoStudy  
+# Go study  
 
 ### Useful Articles
 * [Semantic Versioning](https://semver.org/)
